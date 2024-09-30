@@ -1,81 +1,109 @@
-<header>
+# Md Sahil Reza
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## About Me
+I'm a software developer with a passion for coding and learning new technologies. 
 
-# Communicate using Markdown
+## Skills
+- Python
+- JavaScript
+- HTML/CSS
+- Git & GitHub
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+## Projects
+### Project 1: Awesome Project
+A brief description of what this project does and its features.
 
-</header>
+### Project 2: Another Great Project
+Details about another project, its purpose, and how to use it.
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## Contact
+Feel free to reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com).
 
-## Step 1: Add headers
+## Contributions
+I love contributing to open source! Here are some contributions I've made:
+- [Repository Name](https://github.com/yourusername/repo) - Description of your contribution.
+# Coding Languages
 
-_Welcome to "Communicate using Markdown"! :wave:_
+## Introduction
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+In today's world, coding languages are essential for software development, web design, and more.
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+## Popular Coding Languages
 
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+### 1. Python
+- Widely used for web development and data analysis.
 
-### Example
+### 2. JavaScript
+- The backbone of web development.
 
-```md
-# This is an `<h1>` header, which is the largest
+### 3. Java
+- Popular for building enterprise-scale applications.
 
-## This is an `<h2>` header
+### 4. C++
+- Known for its performance in system/software development.
 
-###### This is an `<h6>` header, which is the smallest
-```
+## Image
 
-#### How it looks
+![Coding Languages](https://sphero.com/cdn/shop/articles/coding_languages_1200x.png?v=1619126283)
 
-# This is an `<h1>` header, which is the largest
+## Conclusion
 
-## This is an `<h2>` header
+Learning coding languages can open up numerous opportunities in tech.
+# Coding Languages
 
-###### This is an `<h6>` header, which is the smallest
+## Introduction
 
-### :keyboard: Activity: Edit your file with headers
+In today's world, coding languages are essential for software development, web design, and more.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Open the **pull requests** tab.
-1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
-1. Click **Create pull request**.
-1. In this pull request, go to the **Files changed** tab. We made an empty file `index.md` for you.
-1. Select **Edit file** from the three dotted **...** menu in the upper right corner of the file view on `index.md`.
-1. On the **Edit file** tab, add a `#`, followed by a **space**, before any content you like to make it an H1 Header. You can add more headers, using one to six `#` characters followed by a **space**.
-1. Above your new content, click **Preview**.
-1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
-1. Click **Commit changes**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+## Popular Coding Languages
 
-<footer>
+### 1. Python
+- Widely used for web development and data analysis.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+### 2. JavaScript
+- The backbone of web development.
 
----
+### 3. Java
+- Popular for building enterprise-scale applications.
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+### 4. C++
+- Known for its performance in system/software development.
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Code Example
 
-</footer>
+Here’s a simple example of a function in Python that adds two numbers:
+
+```python
+def add_numbers(a, b):
+    return a + b
+
+result = add_numbers(5, 3)
+print(result)  # Output: 8
+
+Feel free to modify any sections as needed!
+# Task List
+
+## Coding Languages Learning Plan
+
+- [ ] Research popular coding languages
+- [ ] Choose a language to learn (Python, JavaScript, etc.)
+- [ ] Find online courses or tutorials
+- [ ] Set a weekly study schedule
+- [ ] Complete the first course/module
+- [ ] Build a small project using the learned language
+- [ ] Share your project with others for feedback
+- [ ] Continue learning advanced topics
+# Task List
+
+## To Do
+- [ ] Complete project documentation
+- [ ] Review pull requests
+- [ ] Merge pull request for feature branch
+
+## In Progress
+- [x] Set up development environment
+- [ ] Implement new feature
+
+## Done
+- [x] Write unit tests
+- [x] Fix bugs
